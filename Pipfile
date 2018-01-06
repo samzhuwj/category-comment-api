@@ -7,6 +7,15 @@ name = "pypi"
 
 [packages]
 
+flask = "*"
+flask-restful = "*"
+flask-script = "*"
+flask-migrate = "*"
+marshmallow = "*"
+flask-sqlalchemy = "*"
+flask-marshmallow = "*"
+marshmallow-sqlalchemy = "*"
+"psycopg2" = "*"
 
 
 [dev-packages]
